@@ -1,0 +1,27 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My Learning Hugo Site
+# alternative copyright company
+copyright: Web Design Inc.
+# controls number of pages displayed on list pages
+paginate: 3
+# controls summary length on list pages
+summaryLength: 7
+markup: 
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Menu Links via config file
+menu:
+  main:
+  - name: Github
+    url: https://www.github.com
+    weight: 90
+    params:
+      blank: true
+  - name: Google
+    url: https://www.google.com
+    weight: 100
+    params:
+      blank: true
