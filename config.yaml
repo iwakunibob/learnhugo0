@@ -1,4 +1,9 @@
-baseURL: http://iwakunibob.github.io/learn0/
+baseURL: http://localhost/
+# http://iwakunibob.github.io/learn0/
+# disable taxonomy pages (defaults catagories and tags)
+disableKinds:
+- taxonomy
+- taxonomyTerm
 languageCode: en-us
 title: My Learning Hugo Site
 # alternative copyright company
