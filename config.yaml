@@ -1,8 +1,8 @@
-baseURL: http://example.org/
+baseURL: http://iwakunibob.github.io/learn0/
 languageCode: en-us
 title: My Learning Hugo Site
 # alternative copyright company
-copyright: Web Design Inc.
+copyright: Robert Laurie
 # controls number of pages displayed on list pages
 paginate: 3
 # controls summary length on list pages
