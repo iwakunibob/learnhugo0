@@ -1,4 +1,5 @@
-baseURL: http://iwakunibob.github.io/learn0/ # http://localhost/
+baseURL: https://iwakunibob.github.io/learn0/ 
+# http://localhost/
 # 
 # disable taxonomy pages (defaults catagories and tags)
 disableKinds:
