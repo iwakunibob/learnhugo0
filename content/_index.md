@@ -14,19 +14,19 @@ btn2:
 cardsTitle: Our Services
 cards:
 - title: Beach Transportation
-  img: /img/placeholder1.jpg
+  img: img/placeholder1.jpg
   text: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto qui est possimus deleniti nostrum maiores.
   btn: 
     text: Transportation
     url: "#"
 - title: Outdoor Photography
-  img: /img/placeholder2.jpg
+  img: img/placeholder2.jpg
   text: Consectetur adipisicing elit. Eveniet dolor expedita consequuntur dolore exercitationem sequi voluptatum illo aliquam tenetur enim.
   btn: 
     text: Photographer
     url: "#"
 - title: Hiking Guides
-  img: /img/placeholder3.jpg
+  img: img/placeholder3.jpg
   text: Sit amet consectetur adipisicing elit. Beatae mollitia vel magni necessitatibus autem rerum officiis quasi officia dolorem enim. Est corrupti tenetur nobis fugit asperiores, labore sint repudiandae perferendis.
   btn: 
     text: Hiking

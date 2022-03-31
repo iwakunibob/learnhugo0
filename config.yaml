@@ -6,7 +6,7 @@ disableKinds:
 - taxonomy
 - taxonomyTerm
 languageCode: en-us
-relativeURLs: true
+# relativeURLs: true
 title: My Learning Hugo Site
 # alternative copyright company
 copyright: Robert Laurie
