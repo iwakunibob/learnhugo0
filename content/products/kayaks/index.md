@@ -1,5 +1,5 @@
 ---
-title: Kayaks"
+title: Kayaks
 date: 2022-03-23T23:50:10+09:00
 draft: false
 ---
