@@ -6,10 +6,10 @@ subtitle: Teaching the military community since 1998
 menu: main
 weight: 20
 ---
+
+
+This is a test page will Kanji work? 
 岩国市由宇町北
-
-This is a test page
-
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum hic unde ducimus ipsam. Earum maxime dolorum maiores voluptate praesentium quo iste quia ipsa rem optio quae consequuntur a debitis in nostrum laborum ab ipsum inventore harum sapiente dolore, perferendis voluptatem?
 

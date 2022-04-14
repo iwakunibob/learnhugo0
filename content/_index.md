@@ -35,6 +35,4 @@ cards:
 ### Place Holder text
 Lorem ipsum dolor sit amet consectetur adipisicing **elit**. Tenetur aliquid perferendis autem, non, maxime praesentium eaque a voluptate nam minima hic sint fuga, voluptatem *nobis voluptas* explicabo eum expedita recusandae cum mollitia! Autem est cumque voluptates, voluptatibus excepturi harum omnis placeat at, dignissimos cupiditate blanditiis eaque quam architecto fuga quod.
 
-I am testing this site using github for host.
-
-Updating again changed main.yml to gh-pages.yaml
+Work in progress pardon the pig latin above.
